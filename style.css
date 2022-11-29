@@ -1,0 +1,41 @@
+body {
+  background: maroon;
+  color: black;
+}
+#top {
+  background: #000000;
+  color: red;
+}
+#content {
+  background: #000000;
+  color: #9e0000;
+}
+#bottom {
+  background: #000000;
+  color: #8a0000;
+}
+a {
+  color: #e69100;
+}
+a:hover{
+  color: sandybrown
+}
+.center{
+ display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 90%;
+  height: 50%;
+}
+input[type='text'] {
+  border: 2px solid #ffffff; 
+   background-color: #000000;
+  color: #800000
+}
+select {
+   background-color: #000000;
+  color: #940000
+}
+hr{
+  color: #ffffff
+}
