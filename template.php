@@ -24,6 +24,7 @@
           
           <h1><?php echo $siteName ?></h1>
 
+
           <?php  echo $mainNav ?>
            
 

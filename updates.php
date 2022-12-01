@@ -35,20 +35,70 @@
 
 
 
+
+
+        <div class="row">
+          <div class="col">
+           <h3><a target="_blank" href="https://forum.albiononline.com/index.php/Thread/161195-Controller-Support-is-Coming-to-Albion/"> Controller Support is Coming to Albion!</a></h3>  (Realesed Nov 30, 2022)
+          </div>
+        </div>
+      <div class="row">
+          <div class="col">
+           <img src="/images/">
+          </div>
+        </div>
+
+        <div class="row">
+          <div class="col">
+           <h3><a target="_blank" href="https://forum.albiononline.com/index.php/Thread/170919-Dev-Talk-The-Mists/"> Dev Talk: The Mists</a></h3>  (Realesed Nov 29, 2022)
+          </div>
+        </div>
+        <div class="row">
+          <div class="col">
+           <iframe width="560" height="315" src="https://www.youtube.com/embed/6-cJwu6_n-A" title="Albion Online | The Mists" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+          </div>
+        </div>
           
         <div class="row">
           <div class="col">
-            <img src="/images/beyondthevail.jpeg" width="300">
+           <h3><a target="_blank" href="https://forum.albiononline.com/index.php/Thread/170287-A-Brave-New-Steed-is-Coming-Soon/"> A Brave New Steed</a></h3>  (Realesed Nov 28, 2022)
           </div>
         </div>
-           <div class="row">
-          <div class="col">
-            <h3>Beyond the veil</h3>(Relased Nov 20, 2022)
+        <div class="row">
+          <div class="col p-3">
+             <img src="/images/AO-Steed.jpeg" width="500">
           </div>
+          
+        </div>
+          <div class="row">
           <div class="col">
-            In the most recent update to AO they have added tons of new content, including; A new region called the "Mists", a new Royal City, new Mobs, and new Artifact Armor. As well as some small reworks making it easier for small guilds to join in the competition and a new resource enchantment called pristine, the new highest tier of enchantment.
+             A new Guild Season is in full swing, and Albion's open world is more alive than ever. The competition is fierce, so for those looking to claim glory, a brave companion by your side is worth its weight in gold. And while huge mounts may dominate the field of battle, a small mount with a big heart can turn the tide…
+
+Get ready to ride out into the fight with a new premiere mount skin, available next week in the web shop and in-game store!
           </div>
         </div>
+          
+          <hr>
+          <div class="row">
+          <div class="col">
+            <h3><a target="_blank" href="https://wiki.albiononline.com/wiki/Albion_Online_Wiki">Beyond the veil</a></h3>(Relased Nov 20, 2022)
+          </div>
+        </div>
+        <div class="row">
+          <div class="col">
+            <img src="/images/beyondthevail.jpeg" width="500">
+          </div>
+        </div>
+        
+          <div class="row">
+            <div class="col">
+           Currently "Beyond The Veil" is the most recent update that has added tons of new content to AO, including; A new region called the "Mists", a new Royal City, new Mobs, and new Artifact Armor. As well as some small reworks making it easier for small guilds to join in the competition and a new resource enchantment called pristine, the new highest tier of enchantment. For More Information on the update click the link below
+            <h5><a target="_blank" href="https://forum.albiononline.com/index.php/Thread/170963-Testserver-Patch-Notes-Beyond-the-Veil-Update/">"Beyond The Veil" Test Server Patch Notes</a></h5>
+            </div>
+          </div>
+
+        
+        
 
 
 
