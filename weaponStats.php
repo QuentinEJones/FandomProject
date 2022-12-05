@@ -298,6 +298,177 @@
         </div><!-- End::row4 -->
 
 
+<div class="row"><!-- Start::titleRow6 -->
+          <div class="col">
+          <h3>Fire Staff</h3>
+          </div>
+        </div><!-- End::titleRow6 -->
+          
+          <div class="row"><!-- Start::row5 -->
+          <div class="col">
+            
+        <img src="https://render.albiononline.com/v1/item/Adept's%20Great%20Fire%20Staff.png?locale=en">
+           <p><a target="_blank" href="https://wiki.albiononline.com/wiki/Adept%27s_Great_Fire_Staff">Adept's Great Fire Staff</a></p>
+            <p>Tier: IV</p>
+            <p>Enchant: 0</p>
+            <p>Quality: Normal</p>
+            <p>Item Power: 700</p>
+            <p>Magical DMG: 41</p>
+             <p>DPS: 55 DPS</p>
+            <hr>
+            <h2>Abilities</h2>
+            <hr>
+            <h4>Q Slot</h4>
+            <p><a target="_blank" href="https://wiki.albiononline.com/wiki/Fire_Bolt">Fire Bolt</a> : A fire bolt dealing 201 Magical damage to an enemy, and igniting them to take 16 damage per second for 4 seconds(the burning stacks up to 5 times).</p>
+             <p><a target="_blank" href="https://wiki.albiononline.com/wiki/Deadly_Swipe">Deadly Swipe</a> : Sets the ground on fire in a 3m radius for 4s, dealing 145 magic damage on ignition and additional damage for enemies inside the area.</p>
+<p>Burn Damage:</p>
+
+<p>Against Players: 153 magic damage every 0.5s.</p>
+
+<p>Against Creatures: 56 magic damage every 0.5s.</p>
+            <hr>
+            <h4>W Slot</h4>
+            <hr>
+            <p><a target="_blank" href="https://wiki.albiononline.com/wiki/Ignite">Ignite</a> : Instantly ignite an enemy for 402 Magical Damage. If the enemy's Health is below 40% you get a buff that increases your Cast speed and your Move speed by 40% for 3s.</p>
+             <p><a target="_blank" href="https://wiki.albiononline.com/wiki/Wall_of_Flames">Wall of Flames</a> : Creates a flaming wall in front of the caster, dealing 101 Magical damage every 1s to enemies while they stand in the fire. Enemies hit by the fire will try to flee.</p>
+            <p><a target="_blank" href="https://wiki.albiononline.com/wiki/Fire_Wave">Fire Wave</a> : A cone of fire appears in front of the caster, igniting enemies in hits. Affected enemies suffer 96 damage per second, and will be knocked back. </p>
+            <hr>
+            <h4>E Slot</h4>
+            <hr>
+            <p><a target="_blank" href="https://wiki.albiononline.com/wiki/Flame_Pillar">Flame Pillar</a> : After a short delay, a Flame Pillar erupts out of the ground, dealing 560 Magical damage to all enemies hit.</p>
+            <hr>
+            <h4>Pasive Slot</h4>
+            <hr>
+            <p><a target="_blank" href="https://wiki.albiononline.com/wiki/Burn">Brun</a> : Every normal attack sets the enemy on fire, dealing an additional 23 per second for 2.5s</p>
+             <p><a target="_blank" href="https://wiki.albiononline.com/wiki/Energetic">Energetic</a> : Every normal attack, you restore 4 energy.</p>
+            
+          </div>
+           <div class="col">
+            
+        <img src="https://render.albiononline.com/v1/item/Adept's%20Wildfire%20Staff.png?locale=en">
+           <p><a target="_blank" href="https://wiki.albiononline.com/wiki/Adept%27s_Wildfire_Staff">Adept's Wildfire Staff</a></p>
+            <p>Tier: IV</p>
+            <p>Enchant: 0</p>
+            <p>Quality: Normal</p>
+            <p>Item Power: 775</p>
+            <p>Magical DMG: 39</p>
+            <p>DPS: 53 DPS</p>
+             <hr>
+            <h2>Abilities</h2>
+            <hr>
+            <h4>Q Slot</h4>
+            <p><a target="_blank" href="https://wiki.albiononline.com/wiki/Fire_Bolt">Fire Bolt</a> : A fire bolt dealing 201 Magical damage to an enemy, and igniting them to take 16 damage per second for 4 seconds(the burning stacks up to 5 times).</p>
+             <p><a target="_blank" href="https://wiki.albiononline.com/wiki/Deadly_Swipe">Deadly Swipe</a> : Sets the ground on fire in a 3m radius for 4s, dealing 145 magic damage on ignition and additional damage for enemies inside the area.</p>
+<p>Burn Damage:</p>
+
+<p>Against Players: 153 magic damage every 0.5s.</p>
+
+<p>Against Creatures: 56 magic damage every 0.5s.</p>
+            <hr>
+            <h4>W Slot</h4>
+            <hr>
+            <p><a target="_blank" href="https://wiki.albiononline.com/wiki/Ignite">Ignite</a> : Instantly ignite an enemy for 402 Magical Damage. If the enemy's Health is below 40% you get a buff that increases your Cast speed and your Move speed by 40% for 3s.</p>
+             <p><a target="_blank" href="https://wiki.albiononline.com/wiki/Wall_of_Flames">Wall of Flames</a> : Creates a flaming wall in front of the caster, dealing 101 Magical damage every 1s to enemies while they stand in the fire. Enemies hit by the fire will try to flee.</p>
+            <p><a target="_blank" href="https://wiki.albiononline.com/wiki/Fire_Wave">Fire Wave</a> : A cone of fire appears in front of the caster, igniting enemies in hits. Affected enemies suffer 96 damage per second, and will be knocked back. </p>
+            <hr>
+            <h4>E Slot</h4>
+            <hr>
+            <p><a target="_blank" href="https://wiki.albiononline.com/wiki/Magma_Sphere">Magma Sphere</a> : Shoots a devastating magma sphere in any direction that incinerates all enemies in its path. Every enemy hit will receive 744 damage and burn for 4 seconds for an additional 56 damage per second.(This damage can't be reflected.)</p>
+            <hr>
+            <h4>Pasive Slot</h4>
+            <hr>
+            <p><a target="_blank" href="https://wiki.albiononline.com/wiki/Burn">Brun</a> : Every normal attack sets the enemy on fire, dealing an additional 23 per second for 2.5s</p>
+             <p><a target="_blank" href="https://wiki.albiononline.com/wiki/Energetic">Energetic</a> : Every normal attack, you restore 4 energy.</p>
+            
+          </div>
+        </div><!-- End::row5 -->
+
+          <div class="row"><!-- Start::titleRow7 -->
+          <div class="col">
+          <h3>Cursed Staff</h3>
+          </div>
+        </div><!-- End::titleRow7 -->
+          
+          <div class="row"><!-- Start::row6 -->
+          <div class="col">
+            
+        <img src="https://render.albiononline.com/v1/item/Adept's%20Great%20Cursed%20Staff.png?locale=en">
+           <p><a target="_blank" href="https://wiki.albiononline.com/wiki/Adept%27s_Great_Cursed_Staff">Adept's Great Cursed Staff</a></p>
+            <p>Tier: IV</p>
+            <p>Enchant: 0</p>
+            <p>Quality: Normal</p>
+            <p>Item Power: 700</p>
+            <p>Magical DMG: 41</p>
+             <p>DPS: 55 DPS</p>
+            <hr>
+            <h2>Abilities</h2>
+            <hr>
+            <h4>Q Slot</h4>
+            <p><a target="_blank" href="https://wiki.albiononline.com/wiki/Vile_Curse">Vile Curse</a> : Curse the targeted enemy, dealing 58 magical damage . Applies one Vile Curse Charge . Each Vile Curse Charge deals 234 magical damage over 8s ( stacks up to 4 times).</p>
+             <p><a target="_blank" href="https://wiki.albiononline.com/wiki/Cursed_Sickle">Cursed Sickle</a> : Shot a Cursed Sickle in the targeted direction, piercing through all enemies. The sickle returns to the cast position after it reaches the full cast range, applying all its effects again .</p>
+<p>Deals 58 magical damage . Applies one Vile Curse Charge to each enemy hit.</p>
+<p>Each Vile Curse Charge deals 234 magical damage over 8s ( stacks up to 4 times).</p>
+            <hr>
+            <h4>W Slot</h4>
+            <hr>
+            <p><a target="_blank" href="https://wiki.albiononline.com/wiki/Armor_Piercer">Armor Piercer</a> : Releases a demonic beam in the targeted direction, dealing 359 magical damage to all enemies hit.
+Reduces damage resistances by 47 for 4s .</p>
+             <p><a target="_blank" href="https://wiki.albiononline.com/wiki/Cursed_Beam">Cursed Beam</a> : Deals 201 damage up to 5 times to an enemy.</p>
+            <p><a target="_blank" href="https://wiki.albiononline.com/wiki/Desecrate">Desecrate</a> : Creates a desecrating wave that roots all enemies in a 4m radius for 3.61s, and applies a Vile Curse to them. </p>
+             <p><a target="_blank" href="https://wiki.albiononline.com/wiki/Grudge">Grudge</a> : The grudge can be cast on any ally, and lasts for 10s. While it's active, every normal attack they make inflicts a Grudge Curse stack on the enemy. Each Grudge Curse stack deals 26 magical damage per second for 8 times (stacks up to 6 times).</p>
+            <hr>
+            <h4>E Slot</h4>
+            <hr>
+            <p><a target="_blank" href="https://wiki.albiononline.com/wiki/Area_of_Decay">Area of Decay</a> : The caster creates an area of decay. Enemies inside will have their Heal-over-Time effects removed, and will have Vile Curse reapplied repeatedly. The longer they stay in this area, the more the curse can stack up.</p>
+            <hr>
+            <h4>Pasive Slot</h4>
+            <hr>
+            <p><a target="_blank" href="https://wiki.albiononline.com/wiki/Bane">Bane</a> : Every 4 normal attacks, cause a demonic explosion around on the targeted enemy, dealing 66 magical damage in a 5m radius .</p>
+             <p><a target="_blank" href="https://wiki.albiononline.com/wiki/Energetic">Energetic</a> : Every normal attack, you restore 4 energy.</p>
+             <p><a target="_blank" href="https://wiki.albiononline.com/wiki/Furious_(Cursed_Staffs)">Furious</a> : Every 5 spells cast, increase your damage dealt by 10% for 4s .</p>
+            
+          </div>
+           <div class="col">
+            
+        <img src="https://render.albiononline.com/v1/item/Adept's%20Lifecurse%20Staff.png?locale=en">
+           <p><a target="_blank" href="https://wiki.albiononline.com/wiki/Adept%27s_Lifecurse_Staff">Adept's Lifecuse Staff</a></p>
+            <p>Tier: IV</p>
+            <p>Enchant: 0</p>
+            <p>Quality: Normal</p>
+            <p>Item Power: 725</p>
+            <p>Magical DMG: 39</p>
+            <p>DPS: 53 DPS</p>
+             <hr>
+             <h2>Abilities</h2>
+            <hr>
+            <h4>Q Slot</h4>
+            <p><a target="_blank" href="https://wiki.albiononline.com/wiki/Vile_Curse">Vile Curse</a> : Curse the targeted enemy, dealing 58 magical damage . Applies one Vile Curse Charge . Each Vile Curse Charge deals 234 magical damage over 8s ( stacks up to 4 times).</p>
+             <p><a target="_blank" href="https://wiki.albiononline.com/wiki/Cursed_Sickle">Cursed Sickle</a> : Shot a Cursed Sickle in the targeted direction, piercing through all enemies. The sickle returns to the cast position after it reaches the full cast range, applying all its effects again .</p>
+<p>Deals 58 magical damage . Applies one Vile Curse Charge to each enemy hit.</p>
+<p>Each Vile Curse Charge deals 234 magical damage over 8s ( stacks up to 4 times).</p>
+            <hr>
+            <h4>W Slot</h4>
+            <hr>
+            <p><a target="_blank" href="https://wiki.albiononline.com/wiki/Armor_Piercer">Armor Piercer</a> : Releases a demonic beam in the targeted direction, dealing 359 magical damage to all enemies hit.
+Reduces damage resistances by 47 for 4s .</p>
+             <p><a target="_blank" href="https://wiki.albiononline.com/wiki/Cursed_Beam">Cursed Beam</a> : Deals 201 damage up to 5 times to an enemy.</p>
+            <p><a target="_blank" href="https://wiki.albiononline.com/wiki/Desecrate">Desecrate</a> : Creates a desecrating wave that roots all enemies in a 4m radius for 3.61s, and applies a Vile Curse to them. </p>
+             <p><a target="_blank" href="https://wiki.albiononline.com/wiki/Grudge">Grudge</a> : The grudge can be cast on any ally, and lasts for 10s. While it's active, every normal attack they make inflicts a Grudge Curse stack on the enemy. Each Grudge Curse stack deals 26 magical damage per second for 8 times (stacks up to 6 times).</p>
+            <hr>
+            <h4>E Slot</h4>
+            <hr>
+            <p><a target="_blank" href="https://wiki.albiononline.com/wiki/Enfeeble_Blades">Enfeeble Blades</a> : Summons a ring of deadly blades, around yourself or an ally, that follow the target around. The blades will repeatedly deal 92 damage, and reduce attack power by 5%, stacking up to 10 times.</p>
+            <hr>
+            <h4>Pasive Slot</h4>
+            <hr>
+            <p><a target="_blank" href="https://wiki.albiononline.com/wiki/Bane">Bane</a> : Every 4 normal attacks, cause a demonic explosion around on the targeted enemy, dealing 66 magical damage in a 5m radius .</p>
+             <p><a target="_blank" href="https://wiki.albiononline.com/wiki/Energetic">Energetic</a> : Every normal attack, you restore 4 energy.</p>
+             <p><a target="_blank" href="https://wiki.albiononline.com/wiki/Furious_(Cursed_Staffs)">Furious</a> : Every 5 spells cast, increase your damage dealt by 10% for 4s .</p>
+            
+          </div>
+        </div><!-- End::row6 -->
+
+
 
 
           

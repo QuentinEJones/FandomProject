@@ -24,7 +24,6 @@
           
           <h1><?php echo $siteName ?></h1>
 
-
           <?php  echo $mainNav ?>
            
 
@@ -34,10 +33,12 @@
       <div class="row" id="content"><!-- Start::row2Content -->
         <div class="col p-3"><!-- Start::col2 -->
 
-          
-        <img src="/images/AO-logo.webp" class="center" width="300"><!-- header img-->
+
 
           <p>Hello, My name is Quentin Jones(P.3 in Mr.Benruds Web Design Class), I am a new player to AO(Albion Online) and coming from a player who only has about 40hrs on AO I don't know everthing there is about the the game, but I also have a long history when it comes to MMORPG style games so I'm very good at identifying the best armor and strategizing how to get the best outcome. So believe me when I say this website will be a rough, but detailed introduction to the game and the armor for your classes.</p>
+
+          <h5>To Download And Play the game for yourself Click on the link below to go to Albion Online's Main Download Page</h5>
+         <a target="_blank" href="https://albiononline.com/en/home"><h3>Albion Online Download Link</h3></a>
 
 
 

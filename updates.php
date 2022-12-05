@@ -42,12 +42,26 @@
            <h3><a target="_blank" href="https://forum.albiononline.com/index.php/Thread/161195-Controller-Support-is-Coming-to-Albion/"> Controller Support is Coming to Albion!</a></h3>  (Realesed Nov 30, 2022)
           </div>
         </div>
-      <div class="row">
+        <div class="row">
           <div class="col">
-           <img src="/images/">
+           <img src="/images/AO-Controller.jpeg" width="500">
           </div>
         </div>
+        <div class="row">
+          <div class="col">
+           AO shall be intergrating controller support soon and will be compatible with console and PC controllers
+          </div>
+        </div>
+<br>
+        <div class="row">
+          <div class="col">
+           <h3>How to start testing:</h3>
 
+         To activate controller support simply type in chat "#controller on". To deactivate it type "#controller off".
+
+          </div>
+        </div>
+<hr>
         <div class="row">
           <div class="col">
            <h3><a target="_blank" href="https://forum.albiononline.com/index.php/Thread/170919-Dev-Talk-The-Mists/"> Dev Talk: The Mists</a></h3>  (Realesed Nov 29, 2022)
@@ -55,10 +69,10 @@
         </div>
         <div class="row">
           <div class="col">
-           <iframe width="560" height="315" src="https://www.youtube.com/embed/6-cJwu6_n-A" title="Albion Online | The Mists" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+           <iframe width="500" height="315" src="https://www.youtube.com/embed/6-cJwu6_n-A" title="Albion Online | The Mists" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
           </div>
         </div>
-          
+          <hr>
         <div class="row">
           <div class="col">
            <h3><a target="_blank" href="https://forum.albiononline.com/index.php/Thread/170287-A-Brave-New-Steed-is-Coming-Soon/"> A Brave New Steed</a></h3>  (Realesed Nov 28, 2022)
